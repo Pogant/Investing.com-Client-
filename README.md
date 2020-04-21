@@ -12,4 +12,4 @@ Eg. d:\my_project> http-server
 
 Use 'http://localhost:PORT_ASSIGNED_BY_HTTP_SERVER' to make requests to the server without being CORS-blocked by Chrome.
 
-Make sure that in app.js config variable (line 20) server domain and port we set as accordingly.
+Make sure that in app.js config variable (line 20) server domain and port are set accordingly.
